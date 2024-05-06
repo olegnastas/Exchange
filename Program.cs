@@ -66,6 +66,8 @@ namespace lessons_1
                     break;
                 default:
                     Console.WriteLine("Выбранна неверная операция");
+                    Console.WriteLine("попробуйте еще раз");
+                    Console.WriteLine("Введите верную команду");
                     break;
             }
 
