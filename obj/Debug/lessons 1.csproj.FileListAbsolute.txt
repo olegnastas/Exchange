@@ -1,0 +1,7 @@
+C:\Users\Dell\Desktop\Myproject C#\lessons 1\lessons 1\bin\Debug\lessons 1.exe.config
+C:\Users\Dell\Desktop\Myproject C#\lessons 1\lessons 1\bin\Debug\lessons 1.exe
+C:\Users\Dell\Desktop\Myproject C#\lessons 1\lessons 1\bin\Debug\lessons 1.pdb
+C:\Users\Dell\Desktop\Myproject C#\lessons 1\lessons 1\obj\Debug\lessons 1.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\Myproject C#\lessons 1\lessons 1\obj\Debug\lessons 1.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\Myproject C#\lessons 1\lessons 1\obj\Debug\lessons 1.exe
+C:\Users\Dell\Desktop\Myproject C#\lessons 1\lessons 1\obj\Debug\lessons 1.pdb
